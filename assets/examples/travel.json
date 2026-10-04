@@ -1,0 +1,1268 @@
+{
+  "title": "把一月，留给路上。",
+  "author": "门哥的专属旅行提案",
+  "running_title": "一月旅行 / 五个目的地",
+  "edition": "2027.01",
+  "footer": "三人同行 · 不自驾",
+  "blocks": [
+    {
+      "type": "kicker",
+      "text": "门哥的旅行提案  /  2027.01"
+    },
+    {
+      "type": "space",
+      "height": 46
+    },
+    {
+      "type": "title",
+      "text": "把一月，\n留给路上。"
+    },
+    {
+      "type": "space",
+      "height": 20
+    },
+    {
+      "type": "intro",
+      "text": "五个目的地，五种过冬方式。\n先选喜欢的节奏，再决定出发的地方。"
+    },
+    {
+      "type": "space",
+      "height": 42
+    },
+    {
+      "type": "rule"
+    },
+    {
+      "type": "label",
+      "text": "三人同行  /  天津出发  /  不自驾"
+    },
+    {
+      "type": "body",
+      "text": "大部分日子，十点再出门。\n好好吃饭，慢慢逛街，也留时间拍东西。"
+    },
+    {
+      "type": "space",
+      "height": 24
+    },
+    {
+      "type": "h2",
+      "text": "01  清迈"
+    },
+    {
+      "type": "h2",
+      "text": "02  北海道"
+    },
+    {
+      "type": "h2",
+      "text": "03  槟城＋吉隆坡"
+    },
+    {
+      "type": "h2",
+      "text": "04  泉州＋厦门"
+    },
+    {
+      "type": "h2",
+      "text": "05  广州"
+    },
+    {
+      "type": "space",
+      "height": 20
+    },
+    {
+      "type": "small",
+      "text": "目的地选择与日程草案 · 预算为规划额度"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "label",
+      "text": "读这一本"
+    },
+    {
+      "type": "h1",
+      "anchor": "contents",
+      "text": "先选一种节奏。"
+    },
+    {
+      "type": "body",
+      "text": "排序沿用原方案，依据是你的玩法：三个人、不自驾、不赶早，把街巷和吃饭放在前面。它不是对目的地的客观评分。"
+    },
+    {
+      "type": "toc",
+      "items": [
+        {
+          "label": "01  清迈",
+          "anchor": "chiangmai"
+        },
+        {
+          "label": "02  北海道",
+          "anchor": "hokkaido"
+        },
+        {
+          "label": "03  槟城＋吉隆坡",
+          "anchor": "penang"
+        },
+        {
+          "label": "04  泉州＋厦门",
+          "anchor": "quanzhou"
+        },
+        {
+          "label": "05  广州",
+          "anchor": "guangzhou"
+        },
+        {
+          "label": "预算与取舍",
+          "anchor": "budget"
+        },
+        {
+          "label": "从草案到预订",
+          "anchor": "booking"
+        },
+        {
+          "label": "资料与图片出处",
+          "anchor": "sources"
+        }
+      ]
+    },
+    {
+      "type": "space",
+      "height": 20
+    },
+    {
+      "type": "label",
+      "text": "当前建议"
+    },
+    {
+      "type": "quote",
+      "text": "优先清迈。\n想看雪，选北海道。"
+    },
+    {
+      "type": "body",
+      "text": "选国内，更偏向泉州＋厦门；时间短、只想轻松吃逛，就选广州。槟城＋吉隆坡适合想换个国家，又想同时体验老城与都市的人。"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "kicker",
+      "text": "01  /  6天5晚"
+    },
+    {
+      "type": "h1",
+      "anchor": "chiangmai",
+      "text": "清迈"
+    },
+    {
+      "type": "intro",
+      "text": "古城、泰北菜、夜市和山地；五个方案里，我仍优先推荐它。"
+    },
+    {
+      "type": "image",
+      "path": "images/chiangmai.jpg",
+      "height": 220,
+      "caption": "清迈 · 契迪龙寺佛塔",
+      "focus": [
+        0.5,
+        0.08
+      ]
+    },
+    {
+      "type": "label",
+      "text": "停留方式"
+    },
+    {
+      "type": "body",
+      "text": "清迈住满5晚：古城东侧 / 塔佩门附近。常规日约10点出门；只有茵他侬山一天需要早起。"
+    },
+    {
+      "type": "label",
+      "text": "住哪里"
+    },
+    {
+      "type": "body",
+      "text": "全程住一处，古城东侧更利于步行；两间房比三人挤一间更舒服。别为了泳池每天跨城往返。"
+    },
+    {
+      "type": "label",
+      "text": "怎么走"
+    },
+    {
+      "type": "body",
+      "text": "古城内步行，跨区打车；两次山地行程由司机负责。天津、北京出发方案一起比，是否直飞以所选日期为准。"
+    },
+    {
+      "type": "label",
+      "text": "吃什么"
+    },
+    {
+      "type": "body",
+      "text": "优先尝咖喱面 Khao Soi、泰北香肠、烤肉与糯米饭。三个人多点几样分着吃。"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "kicker",
+      "text": "01  /  清迈"
+    },
+    {
+      "type": "h1",
+      "text": "把每天留宽一点。"
+    },
+    {
+      "type": "day",
+      "label": "D1",
+      "title": "抵达与古城初见",
+      "text": "抵达后入住，塔佩门附近走一圈，晚餐吃泰北咖喱面；晚到就只吃饭休息。"
+    },
+    {
+      "type": "day",
+      "label": "D2",
+      "title": "古城文化＋夜间吃逛",
+      "text": "帕辛寺、契迪龙寺择重点慢看，穿插小巷和咖啡馆；晚上去夜市吃小份。"
+    },
+    {
+      "type": "day",
+      "label": "D3",
+      "title": "素贴山＋宁曼路",
+      "text": "上午包车往返素贴寺，下午宁曼路、One Nimman和咖啡馆；晚上安排按摩。"
+    },
+    {
+      "type": "day",
+      "label": "D4",
+      "title": "茵他侬山一日",
+      "text": "约7:30出发，山顶短步道、瀑布择两三处；包车或小团，不叠加清莱。"
+    },
+    {
+      "type": "day",
+      "label": "D5",
+      "title": "市场、河边与自由时间",
+      "text": "瓦洛洛市场买吃的，平河一带慢逛；下午留给烹饪课或休息，晚上补逛夜市。"
+    },
+    {
+      "type": "day",
+      "label": "D6",
+      "title": "早餐与返程",
+      "text": "吃早餐、买零食，再按航班时间去机场；午后航班才安排一小段补逛。"
+    },
+    {
+      "type": "rule"
+    },
+    {
+      "type": "label",
+      "text": "天气与体力备选"
+    },
+    {
+      "type": "body",
+      "text": "不想早起：D4改乌蒙寺＋园林/咖啡馆。空气质量或山地天气不好：取消山地日，留在城内。"
+    },
+    {
+      "type": "small",
+      "text": "注意：1月适合泰北山地，但不能保证每天蓝天；出发前查空气质量。周末步行街按实际星期调日程。"
+    },
+    {
+      "type": "small",
+      "text": "依据：[1][2]；日程顺序与节奏为本方案建议。"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "kicker",
+      "text": "02  /  7天6晚"
+    },
+    {
+      "type": "h1",
+      "anchor": "hokkaido",
+      "text": "北海道"
+    },
+    {
+      "type": "intro",
+      "text": "雪景、海鲜和温泉；最有季节记忆点，也最需要交通缓冲。"
+    },
+    {
+      "type": "image",
+      "path": "images/hokkaido.jpg",
+      "height": 220,
+      "caption": "北海道 · 小樽运河"
+    },
+    {
+      "type": "label",
+      "text": "停留方式"
+    },
+    {
+      "type": "body",
+      "text": "札幌3晚 → 登别温泉2晚 → 札幌1晚。小樽当天往返；不加入函馆、旭川或道东。"
+    },
+    {
+      "type": "label",
+      "text": "住哪里"
+    },
+    {
+      "type": "body",
+      "text": "札幌住札幌站或大通附近。登别住温泉区，优先三人可订、含早晚餐的房型；别订成车站旁。"
+    },
+    {
+      "type": "label",
+      "text": "怎么走"
+    },
+    {
+      "type": "body",
+      "text": "JR＋市内地铁＋登别接驳巴士。通票与单买票按实际日期比较；本日程跨度较长，不能直接套4日券。"
+    },
+    {
+      "type": "label",
+      "text": "吃什么"
+    },
+    {
+      "type": "body",
+      "text": "汤咖喱、味噌拉面、寿司/海鲜和小樽甜点；温泉酒店的早晚餐已经算进住宿预算。"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "kicker",
+      "text": "02  /  北海道"
+    },
+    {
+      "type": "h1",
+      "text": "把每天留宽一点。"
+    },
+    {
+      "type": "day",
+      "label": "D1",
+      "title": "抵达札幌",
+      "text": "新千岁机场入境后乘JR进城；入住、吃汤咖喱，狸小路只作轻松补逛。"
+    },
+    {
+      "type": "day",
+      "label": "D2",
+      "title": "札幌城市日",
+      "text": "大通公园、旧道厅周边雪景，下午札幌站商场；天气好再考虑夜景，晚餐拉面。"
+    },
+    {
+      "type": "day",
+      "label": "D3",
+      "title": "小樽一日",
+      "text": "JR往返小樽；堺町街、玻璃工艺、甜点与运河，留到傍晚拍景后回札幌。"
+    },
+    {
+      "type": "day",
+      "label": "D4",
+      "title": "札幌到登别",
+      "text": "上午不赶景点，乘JR到登别站，再换巴士去温泉区；下午入住、泡汤。"
+    },
+    {
+      "type": "day",
+      "label": "D5",
+      "title": "温泉慢日",
+      "text": "地狱谷只走开放且安全的路段；其余时间泡汤、休息。冬季步道关闭就不走。"
+    },
+    {
+      "type": "day",
+      "label": "D6",
+      "title": "回札幌＋补逛",
+      "text": "午前后返回札幌；买东西、吃海鲜。把这天作为暴雪导致日程调整的缓冲。"
+    },
+    {
+      "type": "day",
+      "label": "D7",
+      "title": "返程",
+      "text": "去新千岁机场，途中不插入景点；天气异常时按JR和航空公司通知提前调整。"
+    },
+    {
+      "type": "rule"
+    },
+    {
+      "type": "label",
+      "text": "天气与体力备选"
+    },
+    {
+      "type": "body",
+      "text": "降雪大时，小樽和札幌日互换。少走户外、用商场和餐饮填空；末晚回札幌，不从温泉区当天赶国际航班。"
+    },
+    {
+      "type": "small",
+      "text": "注意：2027札幌雪祭为2月4-11日，1月赶不上。雪地鞋、防滑与短距离户外停留，比加景点更重要。"
+    },
+    {
+      "type": "small",
+      "text": "依据：[3][4][5]；雪祭日期为官方公布。"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "kicker",
+      "text": "03  /  7天6晚"
+    },
+    {
+      "type": "h1",
+      "anchor": "penang",
+      "text": "槟城＋吉隆坡"
+    },
+    {
+      "type": "intro",
+      "text": "老城美食接现代都市；适合喜欢边逛边吃、又想换个国家。"
+    },
+    {
+      "type": "image",
+      "path": "images/penang.jpg",
+      "height": 220,
+      "caption": "槟城 · 乔治市店屋"
+    },
+    {
+      "type": "label",
+      "text": "停留方式"
+    },
+    {
+      "type": "body",
+      "text": "槟城乔治市3晚 → 吉隆坡3晚。优先槟城进、吉隆坡出；换城日只安排轻活动。"
+    },
+    {
+      "type": "label",
+      "text": "住哪里"
+    },
+    {
+      "type": "body",
+      "text": "槟城住乔治市边缘、打车好接的位置；吉隆坡住武吉免登或KLCC附近，优先离轨道站近。"
+    },
+    {
+      "type": "label",
+      "text": "怎么走"
+    },
+    {
+      "type": "body",
+      "text": "乔治市步行＋Grab，吉隆坡轨道＋Grab。若只能吉隆坡往返，需加一次境内交通，或压缩到单城。"
+    },
+    {
+      "type": "label",
+      "text": "吃什么"
+    },
+    {
+      "type": "body",
+      "text": "槟城试炒粿条、亚参叻沙、煎蕊、娘惹菜；吉隆坡尝椰浆饭、肉骨茶和印度餐。"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "kicker",
+      "text": "03  /  槟城＋吉隆坡"
+    },
+    {
+      "type": "h1",
+      "text": "把每天留宽一点。"
+    },
+    {
+      "type": "day",
+      "label": "D1",
+      "title": "抵达槟城",
+      "text": "入住乔治市，傍晚随便逛一小段老街；小贩中心吃晚餐，不急着追壁画。"
+    },
+    {
+      "type": "day",
+      "label": "D2",
+      "title": "乔治市老城",
+      "text": "姓氏桥、亚美尼亚街和街头艺术，穿插会馆/历史宅院择一；下午咖啡馆避热。"
+    },
+    {
+      "type": "day",
+      "label": "D3",
+      "title": "极乐寺＋升旗山",
+      "text": "上午极乐寺，下午按天气和缆车排队情况决定升旗山；晚上回乔治市吃饭。"
+    },
+    {
+      "type": "day",
+      "label": "D4",
+      "title": "换城到吉隆坡",
+      "text": "优先选日间境内航班，含往返机场时间；入住后逛武吉免登，阿罗街吃晚餐。"
+    },
+    {
+      "type": "day",
+      "label": "D5",
+      "title": "老城＋双子塔夜景",
+      "text": "茨厂街、中央市场、独立广场按区域串联；傍晚去KLCC公园，是否登塔另选。"
+    },
+    {
+      "type": "day",
+      "label": "D6",
+      "title": "黑风洞或都市慢逛",
+      "text": "想看印度教寺庙就上午去黑风洞；不想爬阶梯就选伊斯兰艺术博物馆，下午商场。"
+    },
+    {
+      "type": "day",
+      "label": "D7",
+      "title": "早餐与返程",
+      "text": "附近早餐和少量伴手礼，按机场位置和航班时间出发；不安排远端景点。"
+    },
+    {
+      "type": "rule"
+    },
+    {
+      "type": "label",
+      "text": "天气与体力备选"
+    },
+    {
+      "type": "body",
+      "text": "热或阵雨：中午进宅院、博物馆、商场。升旗山能见度差就改乔治市室内文化点，不强求登高。"
+    },
+    {
+      "type": "small",
+      "text": "注意：马来西亚全年偏热，吉隆坡也会有阵雨；它不是全程晴天的海岛方案。街头吃逛安排在上午和傍晚。"
+    },
+    {
+      "type": "small",
+      "text": "依据：[6][7][8]；换城航班未按具体日期查询。"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "kicker",
+      "text": "04  /  6天5晚"
+    },
+    {
+      "type": "h1",
+      "anchor": "quanzhou",
+      "text": "泉州＋厦门"
+    },
+    {
+      "type": "intro",
+      "text": "古城、世遗、小吃和海边；国内方案里，我更推荐这一组。"
+    },
+    {
+      "type": "image",
+      "path": "images/quanzhou.jpg",
+      "height": 220,
+      "caption": "泉州 · 开元寺石塔细部",
+      "focus": [
+        0.5,
+        0.15
+      ]
+    },
+    {
+      "type": "label",
+      "text": "停留方式"
+    },
+    {
+      "type": "body",
+      "text": "泉州3晚 → 厦门2晚。泉州进、厦门出优先；清源山与蟳埔不硬塞到同一天。"
+    },
+    {
+      "type": "label",
+      "text": "住哪里"
+    },
+    {
+      "type": "body",
+      "text": "泉州住鲤城古城边缘，兼顾安静和打车；厦门住中山路周边或交通方便的思明区，不住鼓浪屿。"
+    },
+    {
+      "type": "label",
+      "text": "怎么走"
+    },
+    {
+      "type": "body",
+      "text": "城内步行＋网约车，城际高铁。选车次时看厦门站/厦门北站的区别，泉州高铁站到古城也需接驳。"
+    },
+    {
+      "type": "label",
+      "text": "吃什么"
+    },
+    {
+      "type": "body",
+      "text": "泉州吃面线糊、姜母鸭、润饼、肉粽、石花膏；厦门试沙茶面、花生汤和海鲜。"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "kicker",
+      "text": "04  /  泉州＋厦门"
+    },
+    {
+      "type": "h1",
+      "text": "把每天留宽一点。"
+    },
+    {
+      "type": "day",
+      "label": "D1",
+      "title": "泉州古城初见",
+      "text": "入住后去西街、钟楼，晚上吃面线糊/姜母鸭；只作熟悉环境。"
+    },
+    {
+      "type": "day",
+      "label": "D2",
+      "title": "世遗文化主日",
+      "text": "开元寺、府文庙、清净寺择重点，沿中山路往天后宫方向走；累了删一个点。"
+    },
+    {
+      "type": "day",
+      "label": "D3",
+      "title": "泉州弹性日",
+      "text": "偏自然选清源山老君岩及短步道；偏人文选海交馆。下午蟳埔为可选，不强求簪花。"
+    },
+    {
+      "type": "day",
+      "label": "D4",
+      "title": "到厦门＋城市夜逛",
+      "text": "早餐后高铁去厦门，先存行李；沙坡尾、演武大桥周边，晚上中山路吃小吃。"
+    },
+    {
+      "type": "day",
+      "label": "D5",
+      "title": "鼓浪屿一日",
+      "text": "按已买船票的码头登岛，逛街巷、历史建筑和海边；收费景点只挑一两处。"
+    },
+    {
+      "type": "day",
+      "label": "D6",
+      "title": "厦门慢收尾",
+      "text": "天气好去环岛路短段散步，天气差就咖啡馆；午后航班才安排补逛。"
+    },
+    {
+      "type": "rule"
+    },
+    {
+      "type": "label",
+      "text": "天气与体力备选"
+    },
+    {
+      "type": "body",
+      "text": "下雨：清源山改海交馆。鼓浪屿日和厦门市内日互换；冬季海边以散步拍摄为主。"
+    },
+    {
+      "type": "small",
+      "text": "注意：鼓浪屿提前走官方渠道买船票，按票面码头出发。世遗点不必全刷；老城里留时间看细节。"
+    },
+    {
+      "type": "small",
+      "text": "依据：[9][10][11]；泉厦车次与开馆时间待定日期后核对。"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "kicker",
+      "text": "05  /  5天4晚"
+    },
+    {
+      "type": "h1",
+      "anchor": "guangzhou",
+      "text": "广州"
+    },
+    {
+      "type": "intro",
+      "text": "吃饭占一半，城市漫步占一半；省心、内容扎实、几乎不用换酒店。"
+    },
+    {
+      "type": "image",
+      "path": "images/guangzhou.jpg",
+      "height": 220,
+      "caption": "广州 · 沙面"
+    },
+    {
+      "type": "label",
+      "text": "停留方式"
+    },
+    {
+      "type": "body",
+      "text": "广州住满4晚：公园前 / 北京路附近。每日只跑一片；东山口和西关分开，不来回折返。"
+    },
+    {
+      "type": "label",
+      "text": "住哪里"
+    },
+    {
+      "type": "body",
+      "text": "公园前/北京路一带更平衡：老城吃逛方便、地铁可达天河；两间房住四晚，不为一个景点换酒店。"
+    },
+    {
+      "type": "label",
+      "text": "怎么走"
+    },
+    {
+      "type": "body",
+      "text": "机场/高铁＋地铁＋步行，累了网约车补位。天津与北京出发一起比，避免为省小钱多转一次。"
+    },
+    {
+      "type": "label",
+      "text": "吃什么"
+    },
+    {
+      "type": "body",
+      "text": "早茶、烧鹅、白切鸡、云吞面、煲仔饭和糖水。每天留一顿重点餐，其余用小吃补充。"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "kicker",
+      "text": "05  /  广州"
+    },
+    {
+      "type": "h1",
+      "text": "把每天留宽一点。"
+    },
+    {
+      "type": "day",
+      "label": "D1",
+      "title": "抵达＋北京路",
+      "text": "入住后逛北京路、大佛寺周边；晚餐烧鹅或煲仔饭，早点休息。"
+    },
+    {
+      "type": "day",
+      "label": "D2",
+      "title": "西关文化与小吃",
+      "text": "上午陈家祠，下午永庆坊、恩宁路；粤剧艺术博物馆看开放情况，小吃穿插。"
+    },
+    {
+      "type": "day",
+      "label": "D3",
+      "title": "早茶＋沙面＋江边",
+      "text": "慢慢吃早茶，沙面散步拍建筑；下午沿江短逛，想看展可去白鹅潭艺术中心。"
+    },
+    {
+      "type": "day",
+      "label": "D4",
+      "title": "东山口＋现代广州",
+      "text": "上午东山口街巷和咖啡馆；下午天河商场，傍晚花城广场看珠江新城与广州塔。"
+    },
+    {
+      "type": "day",
+      "label": "D5",
+      "title": "补吃与返程",
+      "text": "再吃一顿早茶、买手信；有空补逛南越王博物院的一处展区，按回程时间取舍。"
+    },
+    {
+      "type": "rule"
+    },
+    {
+      "type": "label",
+      "text": "天气与体力备选"
+    },
+    {
+      "type": "body",
+      "text": "下雨：展馆、天河商场和早茶优先；天气好再去沙面。想玩长隆就加一天，不压进当前五天。"
+    },
+    {
+      "type": "small",
+      "text": "注意：陈家祠、展馆闭馆日不同，先核对再调顺序。花城广场看夜景即可，登广州塔不是必选。"
+    },
+    {
+      "type": "small",
+      "text": "依据：[12][13]；广州本身独立成行，不额外串深圳。"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "label",
+      "text": "预算与取舍"
+    },
+    {
+      "type": "h1",
+      "anchor": "budget",
+      "text": "先定额度，\n再看实际报价。"
+    },
+    {
+      "type": "body",
+      "text": "以下为三名成人的人民币地面预算，按原稿分项精确加总。住宿以两间普通房为基准；登别两晚按三人含早晚餐套餐。它是消费额度设定，不是2027年市场价格预测。"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "目的地",
+          "住宿",
+          "餐饮",
+          "交通＋体验"
+        ],
+        [
+          "清迈",
+          "2,500–4,500",
+          "2,160–3,600",
+          "1,500–2,600"
+        ],
+        [
+          "北海道",
+          "6,200–10,400",
+          "2,500–4,200",
+          "2,700–4,500"
+        ],
+        [
+          "槟城＋吉隆坡",
+          "3,600–6,000",
+          "2,520–4,200",
+          "2,200–3,500"
+        ],
+        [
+          "泉州＋厦门",
+          "2,500–4,000",
+          "1,800–3,240",
+          "900–1,600"
+        ],
+        [
+          "广州",
+          "2,000–3,600",
+          "2,250–3,600",
+          "700–1,200"
+        ]
+      ],
+      "widths": [
+        1.12,
+        1.05,
+        1.05,
+        1.05
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "清迈  /  6,160–10,700元"
+    },
+    {
+      "type": "h2",
+      "text": "北海道  /  11,400–19,100元"
+    },
+    {
+      "type": "h2",
+      "text": "槟城＋吉隆坡  /  8,320–13,700元"
+    },
+    {
+      "type": "h2",
+      "text": "泉州＋厦门  /  5,200–8,840元"
+    },
+    {
+      "type": "h2",
+      "text": "广州  /  4,950–8,400元"
+    },
+    {
+      "type": "small",
+      "text": "地面合计含当地交通、门票和计划内体验；马来西亚含一次境内换城，泉厦含城际高铁。不含中国出发往返机票或火车、证件、保险和购物。"
+    },
+    {
+      "type": "small",
+      "text": "原稿中的清迈、槟吉、泉厦、广州总额有取整；本版统一为各分项直接相加，未调整各项预算。"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "label",
+      "text": "预算的具体设定"
+    },
+    {
+      "type": "h1",
+      "text": "花在哪里，\n也决定怎么玩。"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "方案",
+          "最强体验",
+          "要接受的取舍"
+        ],
+        [
+          "清迈 · 6天",
+          "古城、山地、吃逛",
+          "不换酒店；山地日早起，关注空气"
+        ],
+        [
+          "北海道 · 7天",
+          "雪景、温泉",
+          "换酒店两次；冷，交通易受雪影响"
+        ],
+        [
+          "槟吉 · 7天",
+          "多元文化、美食",
+          "换酒店一次；热，有一次境内换城"
+        ],
+        [
+          "泉厦 · 6天",
+          "世遗、街巷、海边",
+          "换酒店一次；不按游泳海岛玩"
+        ],
+        [
+          "广州 · 5天",
+          "粤菜、城市漫步",
+          "不换酒店；跨国旅行的新鲜感较少"
+        ]
+      ],
+      "widths": [
+        1,
+        1,
+        1.8
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "餐饮"
+    },
+    {
+      "type": "body",
+      "text": "清迈、槟城＋吉隆坡：每人每天120–200元。泉州＋厦门：100–180元。广州：150–240元。北海道按全程现金额度计算，已扣除温泉套餐包含的餐食。"
+    },
+    {
+      "type": "h2",
+      "text": "住宿"
+    },
+    {
+      "type": "body",
+      "text": "两房合计每晚：清迈500–900元；槟吉600–1,000元；泉厦500–800元；广州500–900元。北海道札幌四晚800–1,400元/晚，登别两晚三人套餐1,500–2,400元/晚。"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "label",
+      "text": "从草案到预订"
+    },
+    {
+      "type": "h1",
+      "anchor": "booking",
+      "text": "选定之后，\n按这个顺序落地。"
+    },
+    {
+      "type": "h2",
+      "text": "1. 先锁可用天数，再看往返交通"
+    },
+    {
+      "type": "body",
+      "text": "五个方案包含抵达、返程日。如果机票只能晚到早走，按少一个完整游玩日处理，不把行程挤回原样。天津和北京出发一起比较，计入去机场的时间与费用。"
+    },
+    {
+      "type": "h2",
+      "text": "2. 用两间房作为住宿基准"
+    },
+    {
+      "type": "body",
+      "text": "优先一间双人房＋一间单人入住的房。三人房或两卧公寓只有在床型、位置、噪音和总价合适时再替换。北海道温泉套餐尤其要按三名成人核对。"
+    },
+    {
+      "type": "h2",
+      "text": "3. 给预算加上往返交通与机动"
+    },
+    {
+      "type": "body",
+      "text": "参考总额＝本册地面预算＋三人实际往返大交通报价＋证件/保险等实际费用。另留约10%的机动额度，这是准备金建议，不是涨价预测。"
+    },
+    {
+      "type": "h2",
+      "text": "4. 先核对必须预订的项目"
+    },
+    {
+      "type": "body",
+      "text": "清迈：山地包车/小团。北海道：温泉房型、列车、返程缓冲。马来西亚：换城航班与行李。泉厦：鼓浪屿船票。广州：展馆开放日与餐厅。海外再核对护照、签证和入境登记要求。"
+    },
+    {
+      "type": "h2",
+      "text": "5. 把天气影响转成可替换的一天"
+    },
+    {
+      "type": "body",
+      "text": "出发前看短期预报。清迈查空气质量，北海道查JR和航班运行，马来西亚让室内点承接阵雨，泉厦与广州按开馆日、天气换序。"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "label",
+      "text": "资料与图片出处"
+    },
+    {
+      "type": "h1",
+      "anchor": "sources",
+      "text": "保留依据，\n也保留更新余地。"
+    },
+    {
+      "type": "body",
+      "text": "本册重排自已有的五目的地旅行方案。以下保留原稿官方资料入口，点击标题可打开；它们不是已锁定的航班、酒店、报价或营业承诺。"
+    },
+    {
+      "type": "small",
+      "text": "重排日期：2026年10月4日。本次另行复核了札幌雪祭官方会期：2027年2月4–11日，1月方案不含雪祭。其余实时信息应在预订时重新核对。"
+    },
+    {
+      "type": "label",
+      "link": "https://www.tourismthailand.org/Articles/thailand-january",
+      "text": "[1] 泰国旅游局｜Thailand: January"
+    },
+    {
+      "type": "small",
+      "text": "泰北1月季节体验与茵他侬山。"
+    },
+    {
+      "type": "label",
+      "link": "https://www.thailandtravel.or.jp/wat-phra-that-doi-suthep/",
+      "text": "[2] 泰国旅游局日本官网｜素贴寺"
+    },
+    {
+      "type": "small",
+      "text": "清迈山地寺庙体验。"
+    },
+    {
+      "type": "label",
+      "link": "https://www.visit-hokkaido.jp/en/",
+      "text": "[3] 北海道官方旅游｜HOKKAIDO LOVE!"
+    },
+    {
+      "type": "small",
+      "text": "札幌、小樽与登别的景点依据。"
+    },
+    {
+      "type": "label",
+      "link": "https://www.jrhokkaido.co.jp/global/english/travel/model/noboribetsu.html",
+      "text": "[4] JR北海道｜札幌、小樽、登别推荐路线"
+    },
+    {
+      "type": "small",
+      "text": "铁路与登别站转巴士的交通结构。"
+    },
+    {
+      "type": "label",
+      "link": "https://www.snowfes.com/news/948.html",
+      "text": "[5] 札幌雪祭官方｜2027年举办概要"
+    },
+    {
+      "type": "small",
+      "text": "2027年2月4-11日，1月方案不含雪祭。"
+    },
+    {
+      "type": "label",
+      "link": "https://www.mypenang.gov.my/",
+      "text": "[6] 槟城州旅游局｜MyPenang"
+    },
+    {
+      "type": "small",
+      "text": "乔治市遗产、街头艺术与美食主题。"
+    },
+    {
+      "type": "label",
+      "link": "https://ebrochures.malaysia.travel/en/malaysia-travel-guide/kuala-lumpur/",
+      "text": "[7] 马来西亚旅游局｜Kuala Lumpur Guide"
+    },
+    {
+      "type": "small",
+      "text": "茨厂街、KLCC与城市区域安排。"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "label",
+      "text": "官方资料 / 续"
+    },
+    {
+      "type": "h1",
+      "text": "出发前，再核对。"
+    },
+    {
+      "type": "label",
+      "link": "https://www.malaysia.travel/explore/batu-caves",
+      "text": "[8] 马来西亚旅游局｜Batu Caves"
+    },
+    {
+      "type": "small",
+      "text": "黑风洞体验与阶梯条件。"
+    },
+    {
+      "type": "label",
+      "link": "https://www.quanzhou.gov.cn/lyb/lyxw/202407/t20240729_3064585.htm",
+      "text": "[9] 泉州市政府｜四条世界遗产主题线路"
+    },
+    {
+      "type": "small",
+      "text": "开元寺、府文庙、清净寺的文化主线。"
+    },
+    {
+      "type": "label",
+      "link": "https://cbtb.quanzhou.gov.cn/xwdt/bjdt/202609/t20260915_3327812.htm",
+      "text": "[10] 泉州市文旅局｜十大美食精品线路"
+    },
+    {
+      "type": "small",
+      "text": "古城街巷、美食与蟳埔的主题组合。"
+    },
+    {
+      "type": "label",
+      "link": "https://www.xmferry.com/wybm/wshlk/wlgpp/index.htm",
+      "text": "[11] 厦门轮渡｜网上购票流程"
+    },
+    {
+      "type": "small",
+      "text": "游客船票与码头核对入口。"
+    },
+    {
+      "type": "label",
+      "link": "https://www.gz.gov.cn/zt/jrshts/2026n/nwzgz/nwgz/content/post_10686807.html",
+      "text": "[12] 广州市政府｜西关Citywalk"
+    },
+    {
+      "type": "small",
+      "text": "陈家祠、永庆坊、沙面、白鹅潭。"
+    },
+    {
+      "type": "label",
+      "link": "https://wglj.gz.gov.cn/gkmlpt/content/9/9984/post_9984226.html",
+      "text": "[13] 广州市文旅局｜50条精品旅游线路"
+    },
+    {
+      "type": "small",
+      "text": "老城文化、博物馆与东山口等主题。"
+    },
+    {
+      "type": "h2",
+      "text": "哪些内容还没定"
+    },
+    {
+      "type": "body",
+      "text": "没有锁定具体出发日、酒店或航班，也没有查询2027年1月的实时报价。航班、票价、开放时间与入境要求均需在预订时重新核对。"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "label",
+      "text": "图片来源"
+    },
+    {
+      "type": "h1",
+      "text": "每一张，都有来处。"
+    },
+    {
+      "type": "small",
+      "text": "照片用于呈现地点，不代表旅行当日的天气、季节活动或设施现状。均经裁切、缩放；署名与许可保留如下。"
+    },
+    {
+      "type": "h2",
+      "text": "清迈 · 契迪龙寺"
+    },
+    {
+      "type": "small",
+      "text": "Chainwit. · 2019-12-21 · CC BY 4.0"
+    },
+    {
+      "type": "small",
+      "link": "https://commons.wikimedia.org/wiki/File:Chedi_Luang_Chiang_Mai_%282019_Dec%29_-_img_01.jpg",
+      "text": "原始文件与作者信息 ↗"
+    },
+    {
+      "type": "small",
+      "link": "https://creativecommons.org/licenses/by/4.0/",
+      "text": "查看许可 ↗"
+    },
+    {
+      "type": "h2",
+      "text": "北海道 · 小樽运河"
+    },
+    {
+      "type": "small",
+      "text": "Haha169 · 2016-02-16 · CC BY-SA 4.0"
+    },
+    {
+      "type": "small",
+      "link": "https://commons.wikimedia.org/wiki/File:Otaru_Canal_Night.jpg",
+      "text": "原始文件与作者信息 ↗"
+    },
+    {
+      "type": "small",
+      "link": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "text": "查看许可 ↗"
+    },
+    {
+      "type": "h2",
+      "text": "槟城 · 乔治市店屋"
+    },
+    {
+      "type": "small",
+      "text": "Vnonymous · 2012-05-08 · CC BY-SA 4.0"
+    },
+    {
+      "type": "small",
+      "link": "https://commons.wikimedia.org/wiki/File:Penang_shophouses%2C_Magazine_Road%2C_George_Town.jpg",
+      "text": "原始文件与作者信息 ↗"
+    },
+    {
+      "type": "small",
+      "link": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "text": "查看许可 ↗"
+    },
+    {
+      "type": "h2",
+      "text": "泉州 · 开元寺"
+    },
+    {
+      "type": "small",
+      "text": "H2v5o68z · 2025-02-09 · CC0"
+    },
+    {
+      "type": "small",
+      "link": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple%2C_Quanzhou_1.jpg",
+      "text": "原始文件与作者信息 ↗"
+    },
+    {
+      "type": "small",
+      "link": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "text": "查看许可 ↗"
+    },
+    {
+      "type": "h2",
+      "text": "广州 · 沙面"
+    },
+    {
+      "type": "small",
+      "text": "Zhangzhugang · 2012-11-15 · CC BY-SA 3.0"
+    },
+    {
+      "type": "small",
+      "link": "https://commons.wikimedia.org/wiki/File:Guangzhou_Shamian_2012.11.15_09-57-12.jpg",
+      "text": "原始文件与作者信息 ↗"
+    },
+    {
+      "type": "small",
+      "link": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "text": "查看许可 ↗"
+    },
+    {
+      "type": "small",
+      "text": "BY-SA 图片的裁切版本按相同许可提供；不意味着整本文字需要按该许可发布。"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "label",
+      "text": "留一点空白"
+    },
+    {
+      "type": "space",
+      "height": 96
+    },
+    {
+      "type": "title",
+      "text": "地方可以五选一，\n日子不必排满。"
+    },
+    {
+      "type": "space",
+      "height": 40
+    },
+    {
+      "type": "body",
+      "text": "先决定这次想过怎样的一周。\n剩下的，等日期确定后再细化。"
+    },
+    {
+      "type": "space",
+      "height": 78
+    },
+    {
+      "type": "rule"
+    },
+    {
+      "type": "small",
+      "text": "为门哥准备 · 2027年1月旅行提案"
+    }
+  ]
+}

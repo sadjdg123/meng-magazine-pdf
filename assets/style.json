@@ -1,0 +1,61 @@
+{
+  "version": "3.0",
+  "page": {
+    "width": 540,
+    "height": 720,
+    "margin": 36,
+    "top": 49,
+    "bottom": 42,
+    "column_gap": 18
+  },
+  "colors": {
+    "paper": "#F8F5ED",
+    "ink": "#17262D",
+    "muted": "#555B5C",
+    "accent": "#C8402C",
+    "gold": "#E6B94B",
+    "rule": "#D8D4CA"
+  },
+  "type": {
+    "title": [
+      46,
+      57
+    ],
+    "h1": [
+      32,
+      40
+    ],
+    "h2": [
+      15,
+      22
+    ],
+    "body": [
+      11.5,
+      19
+    ],
+    "intro": [
+      14,
+      23
+    ],
+    "small": [
+      9,
+      14
+    ],
+    "label": [
+      9.5,
+      15
+    ]
+  },
+  "fonts": {
+    "title": "Title.woff",
+    "serif": "Serif.woff",
+    "body": "Body.woff",
+    "label": "Label.woff"
+  },
+  "images": {
+    "target_ppi": 144,
+    "minimum_ppi": 72,
+    "recommended_ppi": 96,
+    "jpeg_quality": 86
+  }
+}

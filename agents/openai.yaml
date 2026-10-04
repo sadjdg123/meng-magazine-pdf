@@ -1,0 +1,13 @@
+interface:
+  display_name: Meng Magazine PDF
+  short_description: 沿用认可的杂志风格、暖米色与固定字体，支持真实内页图片、全书目录和自动来源页。
+  default_prompt: 使用 $meng-magazine-pdf，把我的内容按已确认的杂志模板制作成PDF。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

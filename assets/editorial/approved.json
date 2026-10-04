@@ -1,0 +1,161 @@
+{
+  "title": "街巷 / 一月慢行",
+  "brand": "街巷",
+  "author": "为门哥准备",
+  "edition": "2027.01",
+  "modules": [
+    {
+      "type": "cover",
+      "name": "插画封面",
+      "brand": "街巷",
+      "edition": "旅行提案  /  2027.01",
+      "image": "cover-art.png",
+      "title": [
+        "一月慢行"
+      ],
+      "subtitle": "五个地方，一种慢下来的方式。",
+      "footer": "清迈  /  北海道  /  槟城＋吉隆坡  /  泉州＋厦门  /  广州"
+    },
+    {
+      "type": "chapter",
+      "name": "章节开页",
+      "kicker": "卷首  /  为什么出发",
+      "number": "01",
+      "title": [
+        "先选",
+        "一种节奏。"
+      ],
+      "intro": "不用把五个地方都去一遍。\n选一个，换一套日常。",
+      "secondary_title": "三个人。",
+      "body": "不自驾，大部分日子十点再出门。\n把街巷、吃饭和拍摄，放在赶路前面。",
+      "list_title": "五种过冬方式",
+      "list_text": "暖城 / 雪景 / 老街 / 海边 / 粤菜",
+      "footer": "一月慢行"
+    },
+    {
+      "type": "spread",
+      "name": "连贯跨页图文",
+      "image": "otaru.jpg",
+      "focus": [
+        0.5,
+        0.62
+      ],
+      "kicker": "02  /  北海道",
+      "title": [
+        "雪景，",
+        "给慢一点的人。"
+      ],
+      "intro": "一周只留给札幌、小樽与登别。\n白天看雪，傍晚看灯，\n再把两晚留给温泉。",
+      "footer": "雪景与温泉 / 7天6晚",
+      "right_title": "把一周留宽一点",
+      "columns": [
+        {
+          "title": "把雪留给一整天",
+          "text": "小樽当天往返。街巷、玻璃工艺和甜点慢慢逛，留到傍晚看运河，再回札幌。降雪大时，把小樽与札幌城市日互换；户外少走一点，时间交给吃饭与休息。"
+        },
+        {
+          "title": "把返程留出余地",
+          "text": "先住札幌三晚，再去登别两晚，最后回札幌住一晚。温泉日不加远途景点，冬季步道只走开放且安全的部分；末晚回到城里，为暴雪与返程留出缓冲。"
+        }
+      ],
+      "steps": [
+        {
+          "title": "札幌 3晚",
+          "label": "01 / 住下来"
+        },
+        {
+          "title": "登别 2晚",
+          "label": "02 / 慢下来"
+        },
+        {
+          "title": "札幌 1晚",
+          "label": "03 / 留余地"
+        }
+      ],
+      "caption": "小樽运河 · Haha169摄于2016年2月"
+    },
+    {
+      "type": "budget",
+      "name": "预算信息页",
+      "kicker": "比较  /  三人地面预算",
+      "unit": "人民币",
+      "title": [
+        "预算，",
+        "先看取舍。"
+      ],
+      "intro": "同一组住宿与餐饮设定，看看五种旅行的差别。\n这是规划额度；往返大交通、证件、保险和购物另算。",
+      "axis_max": 20000,
+      "rows": [
+        {
+          "label": "清迈",
+          "low": 6160,
+          "high": 10700
+        },
+        {
+          "label": "北海道",
+          "low": 11400,
+          "high": 19100
+        },
+        {
+          "label": "槟城＋吉隆坡",
+          "low": 8320,
+          "high": 13700
+        },
+        {
+          "label": "泉州＋厦门",
+          "low": 5200,
+          "high": 8840
+        },
+        {
+          "label": "广州",
+          "low": 4950,
+          "high": 8400
+        }
+      ],
+      "note_title": "怎么读这张图",
+      "note": "每条线表示该方案的预算下限到上限，并非价格预测。住宿以两间普通房为基准；登别两晚按三人含早晚餐套餐。金额沿用原稿分项，统一精确加总。",
+      "footer": "预算设定 / 不含往返大交通"
+    },
+    {
+      "type": "back",
+      "name": "封底",
+      "brand": "街巷",
+      "edition": "一月慢行 / 2027",
+      "title": [
+        "日子，",
+        "不用排满。"
+      ],
+      "intro": "先决定这次想过怎样的一周。\n地方，留给喜欢的那个。",
+      "byline": "为门哥准备",
+      "edition_note": "三人同行 · 不自驾\n六页视觉样张 · 2026年10月4日",
+      "credits": "封面为原创概念插画，地点组合不是实际地图。\n跨页照片：Haha169 / Otaru Canal Night / CC BY-SA 4.0。\n照片经缩放与跨页裁切；它不代表2027年1月的现场状态。",
+      "source_label": "照片来源与许可",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Otaru_Canal_Night.jpg",
+      "footer": "清迈优先；想看雪景与温泉，选北海道。"
+    }
+  ],
+  "include_sources": false,
+  "assets": [
+    {
+      "id": "cover",
+      "path": "cover-art.png",
+      "kind": "ai_cover",
+      "subject": "一月慢行旅行主题概念插画",
+      "author": "AI 原创概念插画",
+      "license": "原创概念素材",
+      "changes": "封面标题叠加与缩放"
+    },
+    {
+      "id": "otaru",
+      "path": "otaru.jpg",
+      "kind": "photo",
+      "subject": "日本小樽运河夜景",
+      "author": "Haha169",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Otaru_Canal_Night.jpg",
+      "date": "2016-02-16",
+      "changes": "跨页裁切和缩放"
+    }
+  ]
+}
